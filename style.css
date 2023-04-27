@@ -1,0 +1,83 @@
+body {
+    /* background: linear-gradient(#636363, #a2ab58); */
+    background-color: #1F2039;
+}
+
+p, h2, h5, ul, ol, a, figcaption {
+    font-family: sans-serif;
+}
+
+header, footer {
+    background-color: white;
+}
+footer p {
+    color: black;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+img:hover + figcaption {
+    color: red;
+}
+
+p, h2, h5, ul, ol, figcaption {
+    color: #F9F8FF;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 3em;
+    color: white; 
+}
+
+.slogan_accueil {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.slogan_important {
+    font-weight: 800;
+}
+
+.p2_accueil_debut {
+    color: blue;
+}
+.p2_accueil_fin {
+    color: green;
+}
+
+/* Ici je sélectionne 2 élements à la fois (2 id par leurs valeurs) */
+#h2_2_accueil, #mon_ancre {
+    color: chartreuse;
+}
+
+.important {
+    color: #f5e61b;
+    font-style: normal;
+}
+
+.service_1 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.service_2 {
+    font-size: 1.3em;
+}
+
+.service_3 {
+    font-size: 1.5em;
+}
+
+.service_4 {
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+img:hover {
+    opacity: 0.5;
+}
