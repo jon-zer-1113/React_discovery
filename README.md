@@ -1,6 +1,7 @@
 # React_discovery
 
 <h1 align="center"> ⚠️ EN COURS DE PRODUCTION ⚠️ </h1> <br>
+VOIR BRANCHE "DEVELOP" ;-) <br><br><br>
 
 Découverte de ReactJS via un petit projet qui comprend plusieurs "modules" et étapes (car je le fais avec un cours Udemy "React de A à Z").
 
