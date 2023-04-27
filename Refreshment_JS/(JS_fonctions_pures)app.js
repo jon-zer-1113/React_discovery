@@ -10,6 +10,8 @@ console.log(add2(4,5));
 CAR elle n'utilise pas et n'influe pas sur des éléments exterieurs (tel que la var x)
 TANDIS que la première influe sur un élément exterieur: la var x */
 
+
+
 // EXEMPLES:
 
 let x = 2;

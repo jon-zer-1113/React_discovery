@@ -1,5 +1,6 @@
 // Spread (OPERATOR)
 
+
 const arr = [1,2,3];
 console.log(...arr);
 /* Ici, la méthode console.log() affichera 1 2 3 dans la console, 

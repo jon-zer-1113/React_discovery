@@ -43,9 +43,11 @@ const myObj = {
 myObj.foo();
 // Ici, on veut utiliser la valeur de la proriété "a" de l'objet DANS la fonction
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /* L'utilisation de this est courante dans les objets en JavaScript pour faire référence à l'objet actuel dans lequel la méthode est appelée. 
 En utilisant this, vous pouvez accéder aux propriétés et méthodes de l'objet courant, 
 même si leur nom est défini dynamiquement ou s'ils sont définis en dehors de la méthode actuelle. */
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 const myObj = {
     a: "5",
