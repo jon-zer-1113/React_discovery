@@ -1,0 +1,20 @@
+.spanBox {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    margin: auto;
+    display: flex;
+    transition: all ease-in-out 0.5s;
+    border-radius: 100%;
+}
+
+.animatedBox {
+    width: 200px;
+    height: 200px;
+    background: rebeccapurple;
+    margin: auto;
+    display: flex;
+    transform: scale(1.2);
+    transition: all ease-in-out 0.5s;
+    border-radius: 10%;
+}
