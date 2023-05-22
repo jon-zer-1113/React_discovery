@@ -12,6 +12,8 @@ Découverte de ReactJS via un petit projet qui comprend plusieurs "modules" et �
 
 4. Création d'une To-Do Liste : interface, list, state, Map, ID (UUID), suppression, ajout, push, filter, key, etc...
 
-5. en cours...
+5. Quelques règles et détails de React
+
+6. (...)
 
 à bientôt 👋
