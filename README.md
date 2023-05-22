@@ -1,6 +1,6 @@
 # React_discovery
 
-<h1 align="center"> ⚠️ EN COURS DE PRODUCTION ⚠️ </h1> <br>
+<h1 align="center"> ⚠️ EN COURS DE PRODUCTION ⚠️ voir le dossier AKKA-REACT 👍 </h1> <br>
 
 Découverte de ReactJS via un petit projet qui comprend plusieurs "modules" et étapes (car je le fais avec un cours Udemy "React de A à Z").
 
@@ -12,6 +12,8 @@ Découverte de ReactJS via un petit projet qui comprend plusieurs "modules" et �
 
 4. Création d'une To-Do Liste : interface, list, state, Map, ID (UUID), suppression, ajout, push, filter, key, etc...
 
-5. en cours...
+5. Quelques règles et détails de React
+
+6. (...)
 
 à bientôt 👋

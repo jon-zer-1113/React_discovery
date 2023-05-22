@@ -12,7 +12,7 @@ function Item05Inputs (){
     return (
     <div>
 
-        <p>Voici mon state du input en temps réel (depuis Item05Inputs.js) : {InputData}</p>
+        <p>Voici mon state du input en temps réel (depuis Item05Inputs.js) (voir CONSOLE) : {InputData}</p>
 
         <input 
         type="text"

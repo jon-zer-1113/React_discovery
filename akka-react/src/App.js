@@ -16,6 +16,7 @@ import Item08Toggle3 from './Components/Items/Item08Toggle3';
 import Item09ToggleCSS from './Components/Items/Item09ToggleCSS';
 import Item10LIST from './Components/Items/Item10LIST';
 import Form from './Components/Todo-List/Form';
+import FormMongo from './Components/Todo-list-mongo/FormMongo';
 
 // Ici on écrit en JSX (des div classeName, etc etc...).
 // C'est un composant stateFull (puisque qu'il utilise un/des state(s)) SINON ce serait un stateLess.
@@ -89,6 +90,10 @@ function App() {
         <br /><br />
 
         <Form />
+
+        <br /><br />
+
+        <FormMongo />
 
       </main>
 
